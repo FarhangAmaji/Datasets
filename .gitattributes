@@ -1,0 +1,1 @@
+demand/electricity.csv filter=lfs diff=lfs merge=lfs -text
